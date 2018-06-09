@@ -38,5 +38,8 @@ all scripts and assets was made by me it's mean that the game was made from zero
 
 You can see the gameplay here:
 https://www.youtube.com/watch?v=b0YFs0opCqA
+
 And also you can download the apk and test it on your device:
 https://www.dropbox.com/s/fri3zc8e1nhpet7/ColorByNumber.apk?dl=0
+
+#To open the project you just need to donwload the archive and extract files and after that import the folder Color By Number in Unity.
